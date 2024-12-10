@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://flashview.link/build/assets/logo-m6iWsb0r.png
   name: Upptime - FlashView
   introTitle: Real-time status and uptime monitoring for FlashView.
-  introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status).
+  # introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status).
   navbar:
     - title: Status
       href: /
