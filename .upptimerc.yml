@@ -12,7 +12,9 @@ sites:
   #   port: 80
   #   check: "tcp-ping"
   #   ipv6: true
-
+assignees:
+  - mathewparet
+  
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,17 +22,17 @@ status-website:
   cname: status.flashview.link
   # themeUrl: https://status.flashview.link/assets/flashview.css
   # baseUrl: /status.flahview.link
-  # logoUrl: https://flashview.link/build/assets/logo-m6iWsb0r.png
+  logoUrl: https://flashview.link/build/assets/logo-m6iWsb0r.png
   name: Upptime - FlashView
-  # introTitle: "FlashView is an End-to-end"
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Real-time status and uptime monitoring for FlashView.
+  introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status).
   navbar:
-    - title: FlashView Portal
-      href: https://flashview.link
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Return to home
+      href: https://flashview.link
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
