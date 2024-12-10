@@ -17,6 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.flashview.link
+  themeUrl: https://status.flashview.link/assets/flashview.css
   # baseUrl: /status.flahview.link
   # logoUrl: https://flashview.link/build/assets/logo-m6iWsb0r.png
   name: Upptime - FlashView
