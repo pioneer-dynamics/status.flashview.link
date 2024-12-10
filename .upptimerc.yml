@@ -22,7 +22,7 @@ status-website:
   cname: status.flashview.link
   # themeUrl: https://status.flashview.link/assets/flashview.css
   # baseUrl: /status.flahview.link
-  logoUrl: https://flashview.link/build/assets/logo-m6iWsb0r.png
+  logoUrl: https://static.flashview.link/logo-m6iWsb0r.png
   name: Upptime - FlashView
   introTitle: Real-time status and uptime monitoring for FlashView.
   # introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status).
