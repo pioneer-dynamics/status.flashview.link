@@ -4,19 +4,19 @@
     "url": "https://flashview.link",
     "icon": "https://icons.duckduckgo.com/ip3/flashview.link.ico",
     "slug": "flash-view-application-server",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 814,
     "timeDay": 814,
     "timeWeek": 814,
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 4
     }
   },
   {
