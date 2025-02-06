@@ -25,17 +25,19 @@
     "url": "https://static.portion.ist/build/manifest.json",
     "icon": "https://icons.duckduckgo.com/ip3/static.portion.ist.ico",
     "slug": "flash-view-ui-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 464,
-    "timeWeek": 546,
-    "timeMonth": 601,
-    "timeYear": 597,
-    "dailyMinutesDown": {}
+    "time": 593,
+    "timeDay": 388,
+    "timeWeek": 517,
+    "timeMonth": 592,
+    "timeYear": 593,
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   }
 ]
