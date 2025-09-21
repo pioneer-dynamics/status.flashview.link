@@ -6,17 +6,16 @@
     "slug": "flash-view-application-server",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 859,
-    "timeDay": 1129,
-    "timeWeek": 950,
-    "timeMonth": 880,
+    "timeDay": 1176,
+    "timeWeek": 955,
+    "timeMonth": 886,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-09-20": 12,
       "2024-12-14": 127,
       "2024-12-10": 44
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 651,
-    "timeDay": 443,
-    "timeWeek": 615,
-    "timeMonth": 678,
+    "timeDay": 499,
+    "timeWeek": 574,
+    "timeMonth": 666,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2025-02-06": 69
