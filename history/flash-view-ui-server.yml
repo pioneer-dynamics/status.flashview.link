@@ -1,7 +1,7 @@
 url: https://static.portion.ist/build/manifest.json
-status: down
-code: 500
-responseTime: 309
-lastUpdated: 2025-11-18T11:57:13.524Z
+status: up
+code: 200
+responseTime: 473
+lastUpdated: 2025-11-18T14:48:01.494Z
 startTime: 2024-12-10T14:19:16.716Z
 generator: Upptime <https://github.com/upptime/upptime>
