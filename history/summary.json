@@ -4,9 +4,9 @@
     "url": "https://flashview.link",
     "icon": "https://icons.duckduckgo.com/ip3/flashview.link.ico",
     "slug": "flash-view-application-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 822,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2026-02-20": 0,
       "2025-11-18": 185
     }
   },
