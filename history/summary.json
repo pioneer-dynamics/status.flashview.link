@@ -11,35 +11,13 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.92%",
     "time": 858,
-    "timeDay": 1012,
-    "timeWeek": 851,
+    "timeDay": 906,
+    "timeWeek": 845,
     "timeMonth": 826,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2026-02-20": 218,
       "2025-11-18": 185
-    }
-  },
-  {
-    "name": "FlashView UI Server",
-    "url": "https://static.portion.ist/build/manifest.json",
-    "icon": "https://icons.duckduckgo.com/ip3/static.portion.ist.ico",
-    "slug": "flash-view-ui-server",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
-    "time": 638,
-    "timeDay": 374,
-    "timeWeek": 490,
-    "timeMonth": 532,
-    "timeYear": 652,
-    "dailyMinutesDown": {
-      "2026-02-28": 0,
-      "2026-02-24": 56,
-      "2025-11-18": 171
     }
   }
 ]
